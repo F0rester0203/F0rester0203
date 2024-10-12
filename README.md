@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F0rester0203
 - 👀 I’m interested in travelling and sports - football, swimming, tennis & swimming at most.
-- 🌱 I’m currently learning Pytbon basics and C#
+- 🌱 I’m currently learning Python basics and C#
 - 💞️ I’m looking to collaborate on sth fun
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him (fuck the pronouns, noone cares if you are they/them or some other shit)
